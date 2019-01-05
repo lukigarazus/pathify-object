@@ -1,0 +1,17 @@
+node_modules
+yarn-error.log
+yarn.lock
+storybook-static
+
+/*
+!/src
+!/__tests__
+!/tests
+!package.json   
+!.gitignore
+!.npmignore
+!.flowconfig
+!.babelrc
+!.eslintrc
+!.eslintignore
+!.storybook
